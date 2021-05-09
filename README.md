@@ -1,3 +1,3 @@
 # Canine-Farming
 Community Token
-This project will enable users to breed any dog of their choice in the form blockchain tokens.
+will be used to pay fee within the Canine Farming ecosystem.
